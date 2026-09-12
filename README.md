@@ -84,21 +84,7 @@ Service Appointment Management Interface/
 
 ---
 
-## 6. How to Run the Project
-
-1. **Direct Browser Execution:**
-   Double-click `index.html` or open it directly in any modern browser (Chrome, Firefox, Edge, Safari).
-
-2. **Using a Local Development Server (Optional):**
-   Run any simple HTTP server in the project directory:
-   ```bash
-   npx serve -p 3000
-   ```
-   Navigate to `http://localhost:3000` in your web browser.
-
----
-
-## 7. Demo Login Credentials
+## 6. Demo Login Credentials
 
 - **Customer Login:** Enter Email & Password, or click **Register New Account** (where Confirm Password MUST match Enter Password).
 - **Staff Dashboard:**
